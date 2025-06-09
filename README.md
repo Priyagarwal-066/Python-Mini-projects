@@ -1,2 +1,2 @@
 # Python-Mini-projects
-This is grocery-list app mini project for beginner level. This is my first project.
+This is grocery-list app mini project of beginners level. This is my first project.
